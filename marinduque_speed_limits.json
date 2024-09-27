@@ -1,0 +1,177 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-09-26T16:55:38Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 727194032,
+  "bounds": {
+    "minlat": 13.3377239,
+    "minlon": 121.8355831,
+    "maxlat": 13.3380566,
+    "maxlon": 121.8362065
+  },
+  "nodes": [
+    8583219886,
+    6814990645
+  ],
+  "geometry": [
+    { "lat": 13.3380566, "lon": 121.8362065 },
+    { "lat": 13.3377239, "lon": 121.8355831 }
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "yes",
+    "lanes": "2",
+    "level": "1",
+    "maxspeed": "30",
+    "motor_vehicle": "yes",
+    "name": "Masiyan Road",
+    "oneway": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 727194289,
+  "bounds": {
+    "minlat": 13.3369693,
+    "minlon": 121.8337110,
+    "maxlat": 13.3382496,
+    "maxlon": 121.8357107
+  },
+  "nodes": [
+    6814990645,
+    6814969837,
+    6814969838,
+    6814969839,
+    6814969840,
+    6814969841,
+    6814969842,
+    6814969843,
+    6814969844,
+    6814969845,
+    6814969846,
+    6814969847,
+    6814969848,
+    6814969849,
+    6814969850,
+    6814969851,
+    6814969852,
+    6814969853,
+    6814969854,
+    6814969855,
+    6814969856,
+    6814990645
+  ],
+  "geometry": [
+    { "lat": 13.3377239, "lon": 121.8355831 },
+    { "lat": 13.3375217, "lon": 121.8352722 },
+    { "lat": 13.3375036, "lon": 121.8352452 },
+    { "lat": 13.3377437, "lon": 121.8350374 },
+    { "lat": 13.3379292, "lon": 121.8348520 },
+    { "lat": 13.3380297, "lon": 121.8347332 },
+    { "lat": 13.3382496, "lon": 121.8345234 },
+    { "lat": 13.3381909, "lon": 121.8344308 },
+    { "lat": 13.3379705, "lon": 121.8341064 },
+    { "lat": 13.3376713, "lon": 121.8337110 },
+    { "lat": 13.3374268, "lon": 121.8340940 },
+    { "lat": 13.3372685, "lon": 121.8343345 },
+    { "lat": 13.3370153, "lon": 121.8347518 },
+    { "lat": 13.3369693, "lon": 121.8348278 },
+    { "lat": 13.3370186, "lon": 121.8350391 },
+    { "lat": 13.3371386, "lon": 121.8352013 },
+    { "lat": 13.3372784, "lon": 121.8352824 },
+    { "lat": 13.3373441, "lon": 121.8353770 },
+    { "lat": 13.3374701, "lon": 121.8355606 },
+    { "lat": 13.3375210, "lon": 121.8356554 },
+    { "lat": 13.3375668, "lon": 121.8357107 },
+    { "lat": 13.3377239, "lon": 121.8355831 }
+  ],
+  "tags": {
+    "highway": "residential",
+    "lanes": "2",
+    "level": "1",
+    "maxspeed": "20",
+    "name": "Masiyan Road Loop",
+    "oneway": "no",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 924834829,
+  "bounds": {
+    "minlat": 13.3381240,
+    "minlon": 121.8363328,
+    "maxlat": 13.3382112,
+    "maxlon": 121.8364962
+  },
+  "nodes": [
+    6814990644,
+    8583219885
+  ],
+  "geometry": [
+    { "lat": 13.3382112, "lon": 121.8364962 },
+    { "lat": 13.3381240, "lon": 121.8363328 }
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "yes",
+    "lanes": "2",
+    "level": "1",
+    "maxspeed": "30",
+    "motor_vehicle": "yes",
+    "name": "Masiyan Road",
+    "oneway": "no",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 924834830,
+  "bounds": {
+    "minlat": 13.3380566,
+    "minlon": 121.8362065,
+    "maxlat": 13.3381240,
+    "maxlon": 121.8363328
+  },
+  "nodes": [
+    8583219885,
+    8583219886
+  ],
+  "geometry": [
+    { "lat": 13.3381240, "lon": 121.8363328 },
+    { "lat": 13.3380566, "lon": 121.8362065 }
+  ],
+  "tags": {
+    "access": "permissive",
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "residential",
+    "horse": "yes",
+    "lanes": "2",
+    "layer": "1",
+    "level": "1",
+    "maxspeed": "30",
+    "motor_vehicle": "yes",
+    "name": "Masiyan Road",
+    "oneway": "no",
+    "surface": "paved"
+  }
+}
+
+  ]
+}
